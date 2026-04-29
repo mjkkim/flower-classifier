@@ -27,3 +27,4 @@
 - **해결** : `threading`모듈을 활용하여 네트워크 통신 로직을 별도 스레드에서 실행하도록 하여 해결함.
 
 ## 스크린샷
+<img width="1978" height="940" alt="Image" src="https://github.com/user-attachments/assets/b2aa0bec-00e2-4a21-abc1-2d355bcf2b0d" />
